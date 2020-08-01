@@ -24,8 +24,8 @@ input[type="button"],input[type="submit"],.contact-form input[type="submit"]{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;
-     font-family: 'Raleway', sans-serif;	
-}	
+     font-family: 'Raleway', sans-serif;
+}
 p{
 	margin:0;
 }
@@ -245,6 +245,10 @@ ul.dropdown-menu li a:hover {
     line-height: 38px;
     background: transparent;
     box-shadow: 0px 0px 5px #fbfcff;
+}
+.ziti{
+  font-family: "SimHei";
+  font-size: 5;
 }
 .w3_agileits_social_media ul li a:hover {
     color: #f2994a;
@@ -566,7 +570,7 @@ select.form-control:not([size]):not([multiple]) {
     width: 30%;
 }
 .form-date-w3-agileits.second-agile,.form-time-w3layouts.second-agile,.form-left-agileits-w3layouts.second-agile,.form-left-agileits-w3layouts.bottom-w3ls.second-agile {
- 
+
     margin-right:0!important;
 	    padding:0!important;
 }
@@ -579,7 +583,7 @@ select.form-control:not([size]):not([multiple]) {
     background: none;
 }
 .form-control {
-    border-radius: 0rem; 
+    border-radius: 0rem;
 }
 .booking h3 {
     font-size: 22px;
@@ -688,8 +692,8 @@ h2.heading,h3.heading {
     display: block;
     padding: 0;
 }
-.list-inline> li a{ 
-    display: block; 
+.list-inline> li a{
+    display: block;
 }
 .mid-text-info h4 {
     color: #fff;
@@ -759,13 +763,13 @@ h2.heading,h3.heading {
 .desoSlide-wrapper:hover .desoSlide-overlay {
 	left: 0% !important;
 }
-.desoSlide-overlay  ul li{ 
-	display:block;	
-} 
+.desoSlide-overlay  ul li{
+	display:block;
+}
 .desoSlide-overlay  ul li a {
     display: block;
 	padding: 1em;
-	-moz-opacity: 0.7; 
+	-moz-opacity: 0.7;
 	opacity: 0.7;
 }
 .desoSlide-overlay  ul li a:hover {
@@ -780,7 +784,7 @@ h2.heading,h3.heading {
     font-size: 0.9em;
     color: #fff;
     margin-top: .5em;
-} 
+}
 section.middle-sec-agileinfo-w3ls{
 	background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner5.jpg) no-repeat;
 	background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner5.jpg) no-repeat;
@@ -1866,15 +1870,15 @@ a.price:hover {
 /*--// Pricing --*/
 
 
-/*-- gallery --*/ 
+/*-- gallery --*/
 .galry-grid.galry-text {
     padding: 1em;
-} 
+}
 .gallery p {
     font-size: 1.5em;
-    color: #fff; 
+    color: #fff;
     letter-spacing: 1px;
-} 
+}
 .galry-grid.galry-grid-right {
     padding-left: 1em;
 }
@@ -1940,7 +1944,7 @@ a.w3ls-bottom-img {
 .w3agile-text.w3agile-text-small h5 {
     margin-top: 2.2em;
     font-size: 2em;
-} 
+}
 .w3agile-text.w3agile-text-small1 h5 {
     margin-top: 3em;
 }
@@ -1966,17 +1970,17 @@ img.zoom-img{
 	transform: scale(1.8);
 	-moz-transform: scale(1.8);
 	-ms-transform: scale(1.8);
-	-o-transform: scale(1.8);  
+	-o-transform: scale(1.8);
 	-webkit-transition-timing-function: ease-in-out;
-	-moz-transition-timing-function: ease-in-out; 
+	-moz-transition-timing-function: ease-in-out;
 	-ms-transition-timing-function: ease-in-out;
 	-o-transition-timing-function: ease-in-out;
 	transition-timing-function: ease-in-out;
-	-webkit-transition-duration: 750ms; 
+	-webkit-transition-duration: 750ms;
 	-moz-transition-duration: 750ms;
 	-ms-transition-duration: 750ms;
 	-o-transition-duration: 750ms;
-	transition-duration: 750ms; 
+	transition-duration: 750ms;
 	overflow: hidden;
 }
 /*-- //gallery --*/
@@ -2554,7 +2558,7 @@ img.zoom-img{
 	}
 	.w3agile-text.w3agile-text-small1 h5 {
 		margin-top: 3em;
-	}	
+	}
 }
 @media(max-width: 414px) {
 	.banner-info_agile_w3ls {
@@ -2578,7 +2582,7 @@ img.zoom-img{
 		position: static;
 	}
 	.agileinfo_team_grid1_text {
-		padding-left: 2em;	
+		padding-left: 2em;
 	}
 	#slideshow .strip {
 		padding-bottom: 117%;
